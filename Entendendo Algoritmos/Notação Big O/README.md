@@ -15,3 +15,6 @@ Há alguns tipos de notação Big O para o custo de cada algoritmo, entre eles e
 - O(n^2): o bubblesort!;
 - O(n!): e por fim o tipo de algoritmo do caixeiro-viajante.
 
+
+
+
