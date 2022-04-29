@@ -1,4 +1,4 @@
-[<img src="https://github.com/mayara-canaver/Learning-Projects/tree/master/Entendendo%20Algoritmos/docs/img" width="600px" margin-left="-5px">](https://github.com/mayara-canaver/Learning-Projects/tree/master/Entendendo%20Algoritmos)
+[<img src="https://github.com/mayara-canaver/Learning-Projects/tree/master/Entendendo%20Algoritmos/docs/img/capa_ea.png" width="600px" margin-left="-5px">](https://github.com/mayara-canaver/Learning-Projects/tree/master/Entendendo%20Algoritmos)
 
 # Entendendo Algoritmos: Uma maneira resumida e fácil de entender o que você quer!
 
