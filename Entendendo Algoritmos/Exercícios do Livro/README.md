@@ -1,4 +1,5 @@
 # Exercícios do Livro!
+
 ## Capítulo 01
 ### Busca Binária
 
