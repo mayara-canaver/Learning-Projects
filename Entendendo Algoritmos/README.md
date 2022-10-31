@@ -27,7 +27,7 @@ A maioria dos estudantes acabam não tendo um norte por onde seguir, por aqui po
 É interessante saber alguns tópicos:
 
 - Lógica de programação;
-- Linguagem básica de programação (aqui usamos Python para exemplos).
+- Linguagem básica de programação (usamos Python 3.6 para exemplos).
 
 
 ## O que posso aprender nesse repositório?
@@ -43,3 +43,15 @@ Abaixo estão os assuntos abordados:
 
 Temos! Além do livro Entendendo Algoritmos, também utilizamos alguns materiais além para dar um melhor e certeiro aprendizado para você que está aprendendo, a seguir uma lista do material que foi utilizado assim como sua área:
 
+* Ciência de Dados = {
+        "livros": "Python para Análise de Dados",
+                  "Data Science do Zero",
+                  }
+
+* Análise de Dados = {
+        "livros": "Storytelling com Dados",
+                  }
+                  
+* Estatística = {
+        "livros": "Como Mentir com Estatística",
+                  }               
